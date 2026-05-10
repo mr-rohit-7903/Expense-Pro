@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Hanken Grotesk", ui-sans-serif, system-ui, sans-serif;
+}
+
+.recharts-wrapper, .recharts-surface, .recharts-rectangle, .recharts-sector {
+  outline: none !important;
+}

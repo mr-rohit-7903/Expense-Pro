@@ -1,0 +1,819 @@
+{
+  "monthlyData": {
+    "totalIncome": 8500,
+    "totalSavings": 2500,
+    "totalExpenses": 6000,
+    "monthlyChange": 12.5,
+    "chartData": [
+      1800,
+      2100,
+      1950,
+      2400,
+      2050,
+      2300,
+      2500
+    ]
+  },
+  "transactions": [
+    {
+      "id": "15",
+      "name": "Freelance",
+      "category": "Income",
+      "amount": 102.48,
+      "date": "2026-05-10T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "18",
+      "name": "Thrift Store",
+      "category": "Shopping",
+      "amount": -12.86,
+      "date": "2026-05-10T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "56",
+      "name": "Boba Tea",
+      "category": "Food",
+      "amount": -16.41,
+      "date": "2026-05-10T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "78",
+      "name": "Library Printing",
+      "category": "Education",
+      "amount": -8.14,
+      "date": "2026-05-10T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "93",
+      "name": "Tutoring",
+      "category": "Income",
+      "amount": 58.18,
+      "date": "2026-05-10T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "17",
+      "name": "Video Game",
+      "category": "Entertainment",
+      "amount": -15.67,
+      "date": "2026-05-09T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "20",
+      "name": "Coffee Shop",
+      "category": "Food",
+      "amount": -24.09,
+      "date": "2026-05-09T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "86",
+      "name": "Library Printing",
+      "category": "Education",
+      "amount": -41.36,
+      "date": "2026-05-09T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "89",
+      "name": "Vitamins",
+      "category": "Health",
+      "amount": -31.64,
+      "date": "2026-05-09T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "46",
+      "name": "Amazon Textbooks",
+      "category": "Shopping",
+      "amount": -5.73,
+      "date": "2026-05-07T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "24",
+      "name": "Lab Notebook",
+      "category": "Education",
+      "amount": -24.58,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "34",
+      "name": "Subway Ticket",
+      "category": "Travel",
+      "amount": -32.83,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "62",
+      "name": "Movie Tickets",
+      "category": "Entertainment",
+      "amount": -36.06,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "68",
+      "name": "Midnight Snacks",
+      "category": "Food",
+      "amount": -13.87,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "71",
+      "name": "Video Game",
+      "category": "Entertainment",
+      "amount": -39.68,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "92",
+      "name": "Course Materials",
+      "category": "Education",
+      "amount": -6.25,
+      "date": "2026-05-06T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "29",
+      "name": "Gas Share",
+      "category": "Travel",
+      "amount": -48.58,
+      "date": "2026-05-05T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "45",
+      "name": "Pocket Money",
+      "category": "Income",
+      "amount": 193.67,
+      "date": "2026-05-05T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "26",
+      "name": "Selling old books",
+      "category": "Income",
+      "amount": 226.22,
+      "date": "2026-05-04T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "41",
+      "name": "Stationery",
+      "category": "Shopping",
+      "amount": -32.63,
+      "date": "2026-05-04T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "63",
+      "name": "Pocket Money",
+      "category": "Income",
+      "amount": 163.57,
+      "date": "2026-05-04T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "80",
+      "name": "Club Dues",
+      "category": "Other",
+      "amount": -23.59,
+      "date": "2026-05-04T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "82",
+      "name": "Train Ticket Home",
+      "category": "Travel",
+      "amount": -47.39,
+      "date": "2026-05-04T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "30",
+      "name": "Lyft to Campus",
+      "category": "Travel",
+      "amount": -18.39,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "42",
+      "name": "Uber to Party",
+      "category": "Travel",
+      "amount": -46.59,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "72",
+      "name": "Course Materials",
+      "category": "Education",
+      "amount": -28.67,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "84",
+      "name": "Phone Bill",
+      "category": "Utilities",
+      "amount": -37.5,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "90",
+      "name": "Pharmacy",
+      "category": "Health",
+      "amount": -5.87,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "96",
+      "name": "Gym Pass",
+      "category": "Health",
+      "amount": -5.77,
+      "date": "2026-05-03T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "35",
+      "name": "Spotify Premium",
+      "category": "Utilities",
+      "amount": -19.58,
+      "date": "2026-05-02T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "5",
+      "name": "Subway Ticket",
+      "category": "Travel",
+      "amount": -48.57,
+      "date": "2026-05-01T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "31",
+      "name": "Lab Notebook",
+      "category": "Education",
+      "amount": -12.83,
+      "date": "2026-05-01T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "38",
+      "name": "Lyft to Campus",
+      "category": "Travel",
+      "amount": -19.96,
+      "date": "2026-05-01T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "39",
+      "name": "Coffee Shop",
+      "category": "Food",
+      "amount": -37.9,
+      "date": "2026-05-01T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "50",
+      "name": "Freelance",
+      "category": "Income",
+      "amount": 143.6,
+      "date": "2026-05-01T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "36",
+      "name": "Dorm WiFi",
+      "category": "Utilities",
+      "amount": -36.34,
+      "date": "2026-04-30T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "40",
+      "name": "Spotify Premium",
+      "category": "Utilities",
+      "amount": -39.64,
+      "date": "2026-04-30T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "87",
+      "name": "Train Ticket Home",
+      "category": "Travel",
+      "amount": -24.13,
+      "date": "2026-04-30T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "97",
+      "name": "Ramen Noodles",
+      "category": "Food",
+      "amount": -16.02,
+      "date": "2026-04-30T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "55",
+      "name": "Amazon Textbooks",
+      "category": "Shopping",
+      "amount": -40.09,
+      "date": "2026-04-29T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "4",
+      "name": "Laundry Card",
+      "category": "Utilities",
+      "amount": -17.07,
+      "date": "2026-04-28T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "49",
+      "name": "Student Health Center",
+      "category": "Health",
+      "amount": -22.56,
+      "date": "2026-04-28T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "57",
+      "name": "Vitamins",
+      "category": "Health",
+      "amount": -11.94,
+      "date": "2026-04-28T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "85",
+      "name": "Lab Notebook",
+      "category": "Education",
+      "amount": -37.69,
+      "date": "2026-04-28T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "8",
+      "name": "Movie Tickets",
+      "category": "Entertainment",
+      "amount": -14.53,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "11",
+      "name": "Lyft to Campus",
+      "category": "Travel",
+      "amount": -43.09,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "19",
+      "name": "Stationery",
+      "category": "Shopping",
+      "amount": -26.07,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "28",
+      "name": "Gas Share",
+      "category": "Travel",
+      "amount": -32.3,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "32",
+      "name": "Dorm Decor",
+      "category": "Shopping",
+      "amount": -13.14,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "44",
+      "name": "Student Health Center",
+      "category": "Health",
+      "amount": -26.6,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "81",
+      "name": "Target Run",
+      "category": "Shopping",
+      "amount": -23.78,
+      "date": "2026-04-26T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "37",
+      "name": "Lab Notebook",
+      "category": "Education",
+      "amount": -39.14,
+      "date": "2026-04-25T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "53",
+      "name": "Dorm WiFi",
+      "category": "Utilities",
+      "amount": -28.91,
+      "date": "2026-04-25T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "73",
+      "name": "Campus Cafeteria",
+      "category": "Food",
+      "amount": -13.17,
+      "date": "2026-04-25T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "98",
+      "name": "Financial Aid",
+      "category": "Income",
+      "amount": 240.21,
+      "date": "2026-04-25T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "27",
+      "name": "Used Textbook",
+      "category": "Education",
+      "amount": -12.77,
+      "date": "2026-04-24T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "79",
+      "name": "Campus Cafeteria",
+      "category": "Food",
+      "amount": -23.83,
+      "date": "2026-04-23T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "14",
+      "name": "Fundraiser",
+      "category": "Other",
+      "amount": -10.96,
+      "date": "2026-04-22T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "60",
+      "name": "Gift for Friend",
+      "category": "Other",
+      "amount": -26.44,
+      "date": "2026-04-22T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "64",
+      "name": "Haircut",
+      "category": "Other",
+      "amount": -28.24,
+      "date": "2026-04-21T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "74",
+      "name": "Bus Pass",
+      "category": "Travel",
+      "amount": -25.83,
+      "date": "2026-04-21T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "76",
+      "name": "Student Health Center",
+      "category": "Health",
+      "amount": -21.97,
+      "date": "2026-04-21T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "77",
+      "name": "Gym Pass",
+      "category": "Health",
+      "amount": -21.47,
+      "date": "2026-04-21T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "33",
+      "name": "Bus Pass",
+      "category": "Travel",
+      "amount": -17.68,
+      "date": "2026-04-20T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "2",
+      "name": "Subway Ticket",
+      "category": "Travel",
+      "amount": -9.58,
+      "date": "2026-04-19T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "9",
+      "name": "Online Course Fee",
+      "category": "Education",
+      "amount": -48.56,
+      "date": "2026-04-18T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "58",
+      "name": "Fundraiser",
+      "category": "Other",
+      "amount": -12.9,
+      "date": "2026-04-18T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "59",
+      "name": "Tutoring",
+      "category": "Income",
+      "amount": 79.09,
+      "date": "2026-04-18T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "100",
+      "name": "Coffee Shop",
+      "category": "Food",
+      "amount": -26.51,
+      "date": "2026-04-18T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "1",
+      "name": "Movie Tickets",
+      "category": "Entertainment",
+      "amount": -10.51,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "7",
+      "name": "Uber to Party",
+      "category": "Travel",
+      "amount": -44.71,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "12",
+      "name": "Campus Cafeteria",
+      "category": "Food",
+      "amount": -10.62,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "23",
+      "name": "Vitamins",
+      "category": "Health",
+      "amount": -5.65,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "43",
+      "name": "Midnight Snacks",
+      "category": "Food",
+      "amount": -49.69,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "52",
+      "name": "Haircut",
+      "category": "Other",
+      "amount": -15.81,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "83",
+      "name": "Concert",
+      "category": "Entertainment",
+      "amount": -30.98,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "95",
+      "name": "Video Game",
+      "category": "Entertainment",
+      "amount": -5.87,
+      "date": "2026-04-17T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "6",
+      "name": "Netflix Split",
+      "category": "Entertainment",
+      "amount": -20.97,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "13",
+      "name": "Selling old books",
+      "category": "Income",
+      "amount": 217.69,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "54",
+      "name": "Vitamins",
+      "category": "Health",
+      "amount": -6.2,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "69",
+      "name": "Phone Bill",
+      "category": "Utilities",
+      "amount": -9.03,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "70",
+      "name": "Pocket Money",
+      "category": "Income",
+      "amount": 196.24,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "91",
+      "name": "Hoodie from Store",
+      "category": "Shopping",
+      "amount": -38.12,
+      "date": "2026-04-16T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "61",
+      "name": "Party Supplies",
+      "category": "Entertainment",
+      "amount": -38.56,
+      "date": "2026-04-15T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "66",
+      "name": "Phone Bill",
+      "category": "Utilities",
+      "amount": -18.51,
+      "date": "2026-04-15T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "75",
+      "name": "Student Health Center",
+      "category": "Health",
+      "amount": -16,
+      "date": "2026-04-15T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "10",
+      "name": "Thrift Store",
+      "category": "Shopping",
+      "amount": -38.13,
+      "date": "2026-04-14T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "48",
+      "name": "Student Health Center",
+      "category": "Health",
+      "amount": -41.67,
+      "date": "2026-04-14T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "67",
+      "name": "Gym Pass",
+      "category": "Health",
+      "amount": -10.46,
+      "date": "2026-04-14T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "3",
+      "name": "Haircut",
+      "category": "Other",
+      "amount": -22.56,
+      "date": "2026-04-13T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "47",
+      "name": "Laundry Card",
+      "category": "Utilities",
+      "amount": -38.04,
+      "date": "2026-04-13T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "51",
+      "name": "Stationery",
+      "category": "Shopping",
+      "amount": -39.99,
+      "date": "2026-04-13T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "88",
+      "name": "Tutoring",
+      "category": "Income",
+      "amount": 135.48,
+      "date": "2026-04-13T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "22",
+      "name": "Dorm Decor",
+      "category": "Shopping",
+      "amount": -21.07,
+      "date": "2026-04-12T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "65",
+      "name": "Boba Tea",
+      "category": "Food",
+      "amount": -28.51,
+      "date": "2026-04-12T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "16",
+      "name": "Hoodie from Store",
+      "category": "Shopping",
+      "amount": -11.85,
+      "date": "2026-04-11T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "21",
+      "name": "Used Textbook",
+      "category": "Education",
+      "amount": -32.61,
+      "date": "2026-04-11T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "25",
+      "name": "Party Supplies",
+      "category": "Entertainment",
+      "amount": -42.38,
+      "date": "2026-04-11T00:00:00.000Z",
+      "type": "expense"
+    },
+    {
+      "id": "94",
+      "name": "Freelance",
+      "category": "Income",
+      "amount": 77.64,
+      "date": "2026-04-11T00:00:00.000Z",
+      "type": "income"
+    },
+    {
+      "id": "99",
+      "name": "Course Materials",
+      "category": "Education",
+      "amount": -27.26,
+      "date": "2026-04-11T00:00:00.000Z",
+      "type": "expense"
+    }
+  ]
+}
