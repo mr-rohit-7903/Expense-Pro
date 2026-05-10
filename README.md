@@ -65,4 +65,4 @@ npm run build
 The output will be in the `dist/` directory.
 
 ---
-Built with care by the ExpensePro Team.
+Built with care by the Rohit Bej.
